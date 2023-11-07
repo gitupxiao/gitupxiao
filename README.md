@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gitupxiao
-- 👀 I’m interested in ML Ai & python web
-- 🌱 I’m currently learning  ML
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @gitupYeyu
+- 👀 I’m interested in Software Engineering and development
+- 🌱 I’m currently learning Spring and kafka
+- 💞️ I’m looking to collaborate on 12306 program
 - 📫 How to reach me 2962812879@qq.com
   
 
